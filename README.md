@@ -1,5 +1,5 @@
 # PROJECT TRI TUE NHAN TAO: 
-Project cá nhân môn học trí tuệ nhân tạo ở HCMUTE
+Project cá nhân môn học trí tuệ nhân tạo ở HCMUTE|n
 ĐỀ TÀI: LOGIC VÀ ỨNG DỤNG VÀO BÀI TOÁN PHÂN TÍCH CÁC BANG NƯỚC MỸ.
 **Source code:** 
 1. File code States (
